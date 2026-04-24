@@ -1,4 +1,3 @@
-
 # Hi 👋, I'm Noor Rahman
 
 Backend-Focused MERN Stack Developer
@@ -16,6 +15,20 @@ I am a backend-focused MERN Stack Developer with a background in Computer Scienc
 - 💡 Interested in system design, API security, and SaaS products  
 - 🎯 Strong focus on backend architecture & performance  
 - 📫 Reach me on LinkedIn  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+- HTML • CSS • Bootstrap • Tailwind CSS  
+- JavaScript • React.js  
+
+### ⚙️ Backend
+- Node.js • Express.js • MongoDB  
+
+### 🔧 Tools
+- Git • GitHub  
 
 ---
 
