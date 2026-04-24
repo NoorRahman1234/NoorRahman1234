@@ -52,9 +52,9 @@ Production-ready authentication & authorization system:
 - 🔒 Two-Factor Authentication (2FA / MFA)  
 - 🍪 Secure cookies (httpOnly, secure, sameSite)  
 
-**🛠️ Tech Stack:**  
+ ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 <!-- <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,git,github,postman,netlify,vercel" />
 </p> -->
