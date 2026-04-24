@@ -77,5 +77,4 @@ Scalable messaging system:
 - 💾 Optimized message storage  
 - 🧠 Backend-first architecture  
 
-**🛠️ Tech Stack:**  
-Node.js • MongoDB • Express  
+
