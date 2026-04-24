@@ -53,6 +53,12 @@ Production-ready authentication & authorization system:
 - 🍪 Secure cookies (httpOnly, secure, sameSite)  
 
 **🛠️ Tech Stack:**  
+
+### 🛠️ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,js,git,github" />
+</p>
+
 Backend-focused security & authentication architecture  
 
 ---
