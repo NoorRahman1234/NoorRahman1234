@@ -58,17 +58,9 @@ Production-ready authentication & authorization system:
 <!-- <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,git,github,postman,netlify,vercel" />
 </p> -->
-💻 Frontend:
-
-<p> HTML <img src="https://skillicons.dev/icons?i=html" width="20"/> • CSS <img src="https://skillicons.dev/icons?i=css" width="20"/> • Bootstrap <img src="https://skillicons.dev/icons?i=bootstrap" width="20"/> • Tailwind CSS <img src="https://skillicons.dev/icons?i=tailwind" width="20"/> • JavaScript <img src="https://skillicons.dev/icons?i=js" width="20"/> • React.js <img src="https://skillicons.dev/icons?i=react" width="20"/> </p>
-
-⚙️ Backend:
-
-<p> Node.js <img src="https://skillicons.dev/icons?i=nodejs" width="20"/> • Express.js <img src="https://skillicons.dev/icons?i=express" width="20"/> • MongoDB <img src="https://skillicons.dev/icons?i=mongodb" width="20"/> </p>
-
-🔧 Tools:
-
-<p> Git <img src="https://skillicons.dev/icons?i=git" width="20"/> • GitHub <img src="https://skillicons.dev/icons?i=github" width="20"/> • Postman <img src="https://skillicons.dev/icons?i=postman" width="20"/> • Netlify <img src="https://skillicons.dev/icons?i=netlify" width="20"/> • Vercel <img src="https://skillicons.dev/icons?i=vercel" width="20"/> </p>
+💻 Frontend <p> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" /> </p> HTML • CSS • Bootstrap • Tailwind CSS • JavaScript • React.js 
+⚙️ Backend <p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> </p> Node.js • Express.js • MongoDB 
+🔧 Tools <p> <img src="https://skillicons.dev/icons?i=git,github,postman,netlify,vercel" /> </p> Git • GitHub • Postman • Netlify • Vercel
 
 Backend-focused security & authentication architecture  
 
