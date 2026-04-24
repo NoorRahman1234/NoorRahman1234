@@ -55,9 +55,23 @@ Production-ready authentication & authorization system:
 **🛠️ Tech Stack:**  
 
 ### 🛠️ Tech Stack
-<p>
+<!-- <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,git,github,postman,netlify,vercel" />
-</p>
+</p> -->
+💻 Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" /> </p>
+
+HTML • CSS • Bootstrap • Tailwind CSS • JavaScript • React.js
+
+⚙️ Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /> </p>
+
+Node.js • Express.js • MongoDB
+
+🔧 Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,postman,netlify,vercel" /> </p>
+
+Git • GitHub • Postman • Netlify • Vercel
 
 Backend-focused security & authentication architecture  
 
