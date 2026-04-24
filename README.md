@@ -12,7 +12,7 @@ I am a backend-focused MERN Stack Developer with a background in Computer Scienc
 🎯 Strong focus on backend architecture & performance
 📫 Reach me on LinkedIn 
 🌐 Connect With Me
-💼 LinkedIn:https://www.linkedin.com/in/noor-rahman-afridi-50b5972b4?utm_source=share_via&utm_content=profile&utm_medium=member_android
+💼 LinkedIn:https://www.linkedin.com/in/noor-rahman-afridi-50b5972b4
 🧠 Featured Projects
 🔐 Secure Authentication System (MERN) (In Progress)
 
