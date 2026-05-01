@@ -20,20 +20,6 @@ I am a backend-focused MERN Stack Developer with a background in Computer Scienc
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-- HTML • CSS • Bootstrap • Tailwind CSS  
-- JavaScript • React.js  
-
-### ⚙️ Backend
-- Node.js • Express.js • MongoDB  
-
-### 🔧 Tools
-- Git • GitHub  
-
----
-
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/noor-rahman-afridi-50b5972b4  
